@@ -1,1 +1,10 @@
 C:\Users\Braden.Coleman\Documents\Visual Studio 2013\Projects\FunWithLawns\FunWithLawns\bin\Debug\FunWithLawns.exe.config
+H:\SDD\FunWithLawns\FunWithLawns\bin\Debug\FunWithLawns.exe.config
+H:\SDD\FunWithLawns\FunWithLawns\bin\Debug\FunWithLawns.exe
+H:\SDD\FunWithLawns\FunWithLawns\bin\Debug\FunWithLawns.pdb
+H:\SDD\FunWithLawns\FunWithLawns\bin\Debug\FunWithLawns.xml
+H:\SDD\FunWithLawns\FunWithLawns\obj\Debug\ConsoleApplication1.Resources.resources
+H:\SDD\FunWithLawns\FunWithLawns\obj\Debug\FunWithLawns.vbproj.GenerateResource.Cache
+H:\SDD\FunWithLawns\FunWithLawns\obj\Debug\FunWithLawns.exe
+H:\SDD\FunWithLawns\FunWithLawns\obj\Debug\FunWithLawns.xml
+H:\SDD\FunWithLawns\FunWithLawns\obj\Debug\FunWithLawns.pdb

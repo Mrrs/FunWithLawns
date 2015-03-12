@@ -6,9 +6,9 @@
 
         Public companyName As String
         Public companyOwner As String
-        Public companyContactNumber As New Integer
-        Public companyAddress As New Integer
-        Public companyRate As New Integer
+        Public companyContactNumber As Integer
+        Public companyAddress As String
+        Public companyRate As Integer
 
     End Class
 
@@ -68,6 +68,15 @@
         Console.Write("Company hourly rate: $")
         company.companyRate = Console.ReadLine
 
+        Console.WriteLine(" ")
+
+        Console.WriteLine("Setup is complete!")
+
+        Console.WriteLine("  ")
+
+        Console.WriteLine ("Press any key to continue...")
+
+        Console.ReadKey()
     End Sub
 
     Sub Main()
@@ -105,6 +114,18 @@
 
     End Sub
 
+    Sub Menu()
+
+        'MENU'
+
+        Console.WriteLine("Welcome ")
+        Console.WriteLine("----------------------------------------------------")
+
+        'COMPLETED HOURS AND INCOME'
+
+        Console.WriteLine("Total completed hours: ")
+        Console.WriteLine("Total income: ")
+    End Sub
 End Module
 
 
